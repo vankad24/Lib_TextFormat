@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LibTextFormat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LibTextFormat_jar</output-path>
+    <root id="archive" name="LibTextFormat.jar">
+      <element id="module-output" name="LibTextFormat" />
+      <element id="library" level="project" name="textformat" />
+    </root>
+  </artifact>
+</component>
