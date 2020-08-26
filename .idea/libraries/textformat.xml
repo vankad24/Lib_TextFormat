@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="textformat">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/out/artifacts/LibTextFormat_jar/LibTextFormat.jar!/com/textformat" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

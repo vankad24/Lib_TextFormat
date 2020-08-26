@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/LibTextFormat_jar</output-path>
     <root id="archive" name="LibTextFormat.jar">
       <element id="module-output" name="LibTextFormat" />
-      <element id="library" level="project" name="textformat" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/LibTextFormat_jar/LibTextFormat.jar" path-in-jar="/com/textformat/" />
     </root>
   </artifact>
 </component>
