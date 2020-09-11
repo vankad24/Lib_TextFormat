@@ -7,9 +7,14 @@
   
   ![](images/class.png) 
   
-  
-  
-  [Пример:](https://github.com/vankad24/Lib_TextFormat/blob/master/src/Main.java) в результате выполнения кода
+---
+ 
+<details>
+<summary> <b>💡 Пример:</b></summary>
+
+
+   [В результате выполнения кода](https://github.com/vankad24/Lib_TextFormat/blob/master/src/Main.java)
+   
   ```java
         System.out.println(TextBackground.background("Hello world!",TextBackground.BLACK)); 
 
@@ -23,5 +28,9 @@
   Мы получим следующий результат:
   
   ![](images/out.png) 
+  
+  </details>
+  
+  ---
   
   # [Скачать](https://github.com/vankad24/Lib_TextFormat/raw/master/LibTextFormat.jar)
